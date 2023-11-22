@@ -86,7 +86,7 @@ License
 This plugin is licensed under the MIT License.
 Author
 
-Exclusive Parameter Settings Plugin is developed and maintained by Exclusive Web Marketing. Connect with us at gilertkarogo@gmail.com.
+Exclusive Parameter Settings Plugin is developed and maintained by Exclusive Web Marketing. Connect with us at gilbertkarogo@gmail.com.
 
 Thank you for choosing the Exclusive Parameter Settings Plugin. We hope it brings a new level of customization and control to your WordPress website!
 ChatGPT can make mistakes. Consider checking important information.
