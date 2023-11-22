@@ -1,75 +1,60 @@
-=== Exclusive Parameters ===
-Contributors: exlusivewebmarketing, freemius
-Tags: review, seo
-Requires at least: 4.6
-Tested up to: 6.0
-Requires PHP: 5.6
-Stable tag: trunk
-License: GPL2+
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
-Exclusive Parameter Settings Plugin for WordPress
+URL Parameters Modifier Plugin for WordPress
 Overview
 
-Welcome to the Exclusive Parameter Settings Plugin! This versatile plugin empowers you to effortlessly enhance your WordPress website by adding customizable sections using intuitive shortcodes. With a focus on flexibility, this plugin introduces exclusive parameter settings for image, text, and HTML sections, allowing you to tailor the appearance and functionality of each section with precision.
+Welcome to the URL Parameters Modifier Plugin! This innovative tool is designed to enhance your niche marketing efforts by capturing values from the URL and dynamically modifying content, including text and images, accordingly. Tailor your WordPress website's content based on URL parameters, creating a personalized and targeted experience for your audience.
 Features
 
-    Simple Shortcodes:
-        Use straightforward shortcodes to seamlessly integrate various content sections into your WordPress pages and posts.
-        Enjoy the simplicity of customization without the need for intricate coding.
+    Dynamic Content Modification:
+        Capture values from the URL to dynamically adjust content on your WordPress pages.
+        Ideal for niche marketing, providing a personalized experience for targeted audiences.
 
-    Image Sections:
-        Create visually stunning image sections using the exclusive parameter settings.
-        Tailor image dimensions, specify alt text, and fine-tune other parameters to match your design requirements.
+    Text Customization:
+        Modify text content dynamically based on specified URL parameters.
+        Create unique messages or tailor information to match the interests of your visitors.
 
-    Text Sections:
-        Craft engaging text sections with exclusive settings for color, font size, and more.
-        Ensure that your textual content aligns seamlessly with your website's aesthetic.
+    Image Replacement:
+        Swap images on your pages dynamically using URL parameters.
+        Enhance visual appeal and relevance for different segments of your audience.
 
-    HTML Sections:
-        Embed custom HTML content effortlessly with exclusive parameter settings.
-        Enhance flexibility by incorporating external scripts, forms, or any HTML elements to meet your specific needs.
+    Niche Marketing Support:
+        Optimize your marketing campaigns for specific niches by delivering content tailored to each audience segment.
+        Increase engagement and conversion rates with personalized content.
 
-    Exclusive Parameter Settings:
-        Enjoy the power of exclusive settings for each content type.
-        Customize individual sections with precision, ensuring a unique and tailored appearance.
+    Easy Configuration:
+        Configure the plugin settings through the WordPress dashboard with user-friendly options.
+        Customize URL parameters, define corresponding values, and set content modifications effortlessly.
 
 Getting Started
 
     Installation:
-        Download the Exclusive Parameter Settings Plugin zip file.
+        Download the URL Parameters Modifier Plugin zip file.
         Upload and activate the plugin through your WordPress dashboard.
 
-    Adding Sections:
-        Utilize shortcodes with exclusive parameter settings to add image, text, and HTML sections to your pages or posts.
-        Experiment with the settings to achieve the desired look and functionality.
+    Configuration:
+        Navigate to the plugin settings in your WordPress dashboard.
+        Specify URL parameters and set corresponding values for text and image modifications.
 
-    Preview and Adjust:
-        Preview your changes to visualize how the sections will appear on your website.
-        Fine-tune exclusive parameters to match your design preferences.
+    Content Modification:
+        Use shortcodes or designated functions to implement dynamic content modifications.
+        Leverage the power of URL parameters to create personalized experiences.
 
-    Save and Publish:
-        Save your changes and publish your page or post to make the new sections live on your website.
+    Testing:
+        Test your URL parameters by appending values to your website URLs.
+        Verify that the content modifications are working as expected.
 
 Shortcode Examples
 
-    Image Section:
+    Text Modification:
 
     html
 
-[exclusive_image_section url="https://example.com/image.jpg" alt="Example Image" width="600" height="400"]
+[url_param_text param="interest" value="sports"] Check out our latest sports collection! [/url_param_text]
 
-Text Section:
-
-html
-
-[exclusive_text_section color="#333" font_size="18px"]Your customized text content goes here.[/exclusive_text_section]
-
-HTML Section:
+Image Replacement:
 
 html
 
-    [exclusive_html_section]<!-- Your custom HTML content goes here --><!-- Embed scripts, forms, or any other HTML elements --><![CDATA[</exclusive_html_section>]]
+    [url_param_image param="campaign" value="summer"] [summer_image] [/url_param_image]
 
 Requirements
 
@@ -77,7 +62,7 @@ Requirements
 
 Support and Issues
 
-For any questions, issues, or feedback, feel free to reach out to our support team. We are committed to ensuring you have a smooth experience with the Exclusive Parameter Settings Plugin.
+For any questions, issues, or feedback, feel free to reach out to our support team. We are committed to ensuring you have a seamless experience with the URL Parameters Modifier Plugin.
 Contributing
 
 We welcome contributions! If you have ideas for improvements or new features, please submit a pull request or open an issue on our GitHub repository.
@@ -86,7 +71,6 @@ License
 This plugin is licensed under the MIT License.
 Author
 
-Exclusive Parameter Settings Plugin is developed and maintained by Exclusive Web Marketing. Connect with us at gilbertkarogo@gmail.com.
+URL Parameters Modifier Plugin is developed and maintained by Exclusive Web Marketing. Connect with us at gilbertkarogo@gmail.com.
 
-Thank you for choosing the Exclusive Parameter Settings Plugin. We hope it brings a new level of customization and control to your WordPress website!
-ChatGPT can make mistakes. Consider checking important information.
+Thank you for choosing the URL Parameters Modifier Plugin. We hope it brings a new level of personalization to your niche marketing efforts!
